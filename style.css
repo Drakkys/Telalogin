@@ -103,3 +103,10 @@ a {
 a:hover {
   color: #272269;
 }
+.fa-eye {
+  position: absolute;
+  top: 18px;
+  right: 10px;
+  cursor: pointer;
+  color: #211a7e;
+}
