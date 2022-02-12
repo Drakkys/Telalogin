@@ -12,12 +12,13 @@ body {
   display: flex;
   justify-content: center;
   width: 100%;
-  margin-top: 325px;
+  margin-top: 300px;
 }
 .card {
   background-color: #ffffff80;
-  padding: 20px;
-  border-radius: 4%;
+  padding: 40px;
+  border-top-left-radius: 25%;
+  border-bottom-right-radius: 25%;
   box-shadow: 3px 3px 1px 0px #00000075;
 }
 h1 {
